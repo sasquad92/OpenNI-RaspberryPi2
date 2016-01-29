@@ -1,0 +1,7 @@
+Skompilowane i przetestowane na Ubuntu 14.04 LTS 64bit
+postawione na wirtualnej maszynie (VMware Player)
+dla 2GB ramu nie dzialalo wyswietlanie, po przydzieleniu 3GB wszystko smiga
+
+sciezka do przykladowych programow:
+
+OpenNI2-master/Bin/x64-Release/

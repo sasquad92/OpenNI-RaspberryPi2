@@ -1,0 +1,7 @@
+link do ubuntu:
+https://developer.ubuntu.com/en/snappy/start/raspberry-pi-2/
+SDcard reder w VMware:
+http://www.htpcguides.com/how-to-use-sd-card-reader-in-vmplayer-and-vmworkstation/
+
+link do ubuntu mate + instrukcje:
+https://ubuntu-mate.org/raspberry-pi/

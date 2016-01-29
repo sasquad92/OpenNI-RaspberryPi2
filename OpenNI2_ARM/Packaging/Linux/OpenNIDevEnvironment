@@ -1,0 +1,2 @@
+export OPENNI2_INCLUDE=/home/raspberry/Pulpit/OpenNI2-master/Packaging/Linux/Include
+export OPENNI2_REDIST=/home/raspberry/Pulpit/OpenNI2-master/Packaging/Linux/Redist

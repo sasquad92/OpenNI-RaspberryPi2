@@ -1,0 +1,5 @@
+http://structure.io/
+http://structure.io/openni
+https://www.raspberrypi.org/
+http://jetsonhacks.com/2014/08/28/building-openni2-structure-sensor/
+https://github.com/OpenNI/OpenNI/issues/81
