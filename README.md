@@ -29,6 +29,6 @@ Helpful link: https://github.com/OpenNI/OpenNI/issues/81
 	core_samples: $(CORE_SAMPLES)
 	Tools: $(ALL_TOOLS)
 - Write in console make - library will be compiled
-- Additional tools - write in console:
+- Additional tools - write in console: 
 	GLUT_SUPPORTED =1 make tools
 Link: http://jetsonhacks.com/2014/08/28/building-openni2-structure-sensor/
