@@ -1,5 +1,5 @@
 # OpenNI-RaspberryPi2
-Project for Interim Project on Poznań Univercity of Technology
+Project for Interim Project on Poznań University of Technology
 
 STEPS:
 
